@@ -1,5 +1,7 @@
 # The Shamir's Secret Sharing (SSS) scheme as well as the mathematical concepts involved.
 
+![5vvByhKF1sdG1BLuFfwSCR](https://github.com/user-attachments/assets/b63dc29c-ea6b-4186-ba29-2794d8501877)
+
 ### Code Breakdown with Mathematical Explanation:
 
 The primary purpose of this code is to implement **Shamir's Secret Sharing** (SSS), which is a method for splitting a secret into multiple parts, or **shares**, such that the secret can only be reconstructed if a threshold number of shares are combined. If fewer than the required number of shares are available, the secret remains secure.
